@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "eaf7698e-c6e1-4530-bf56-21af0ac7732a"
+	},
+	"author": "Ming Yuk John Ma",
+	"dependencies": {
+		"@framer/framer.base": "^1.0.0"
+	}
+}
